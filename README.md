@@ -6,11 +6,10 @@ The Hogwarts Sorting Hat App is an exciting web3 decentralized application (dApp
 
 The Hogwarts Sorting Hat App offers a range of features, including:
 
-- **Sorting Ceremony**: Experience the magic of the Hogwarts Sorting Hat ceremony as you get assigned to one of the four prestigious houses.
+- **Sorting**: Experience the magic of the Hogwarts Sorting Hat ceremony as you get assigned to one of the four prestigious houses.
 - **Smart Contract Development**: Learn about smart contract development by exploring the code that powers the Sorting Hat ceremony.
 - **Web3 Integration**: Gain hands-on experience in web3 technology by interacting with the Polygon Mumbai network.
 - **Real-World Application**: Understand how blockchain technology can be applied in various industries and use cases.
-- **Educational and Fun**: Combine entertainment with education, making the learning process enjoyable and accessible to all.
 
 ## Technologies Used
 
